@@ -8,5 +8,6 @@ class AppConfig {
     team = 'Team San';
     demo = 'demo my first commit';
     apiDemo = ' new feature';
+	textg = 'USer account demo';
 }
 module.exports = AppConfig;
