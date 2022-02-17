@@ -7,5 +7,6 @@ class AppConfig {
     version = '122.12.1';
     team = 'Team San';
     demo = 'demo my first commit';
+    apiDemo = ' new feature';
 }
 module.exports = AppConfig;
